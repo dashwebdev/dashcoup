@@ -2670,19 +2670,10 @@ figure.vimeo a img, figure.youtube a img {
 		font-size: 30px;
 	}
 	.case-study-images li .img-hero-background-over{
-		/* width: calc(100% - 100px);
-		height: calc(100% - 200px); */
-		/* top: 100px;
-		left: 50px; */
-
-		/* ------------------------------------------------------- imp ----------------------------------------- */
-
+		width: calc(100% - 100px);
+		height: calc(100% - 200px);
 		top: 100px;
-		/* left: auto; */
-		margin: 100px 0px 0px -35px;
-		height: 200px;
-		width: 330px;
-
+		left: 50px;
 	}
 	.nav__list-item a:hover:after,
 	.nav__list-item.active-nav a:after{ 
@@ -2744,8 +2735,24 @@ figure.vimeo a img, figure.youtube a img {
 	.swiper-slide h1{
 		font-size: 34px;
 		/* height on mobile */
-		margin-top: 300px;
+		margin-top: 200px;
 	}
+
+	.case-study-images li .img-hero-background-over{
+		/* width: calc(100% - 100px);
+		height: calc(100% - 200px); */
+		/* top: 100px;
+		left: 50px; */
+
+		/* ------------------------------------------------------- imp ----------------------------------------- */
+
+		top: 100px;
+		/* left: auto; */
+		margin: 100px 0px 0px -35px;
+		height: 200px;
+		width: 330px;
+	}
+
 	.curent-page-name-shadow {
 		display: none;
 	}
@@ -2771,7 +2778,7 @@ figure.vimeo a img, figure.youtube a img {
 	.page-title h1{
 		font-size: 35px;
 		/* height on mobile */
-		margin-top: 300px;
+		/* margin-top: 300px; */
 	}
 	.swiper-slide.bottom-name h1{
 		padding: 20px 30px;
