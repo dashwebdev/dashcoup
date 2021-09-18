@@ -2753,6 +2753,18 @@ figure.vimeo a img, figure.youtube a img {
 		width: 90%;
 	}
 
+	.case-study-images li .img-hero-background-over:after {
+		position: absolute; 
+		content: '';
+		left: 0;
+		height: 100%;
+		top: 0px;
+		background-color: rgba(255, 255, 255, 0);
+		width: 100%;
+		z-index: 9;
+		opacity: 0.3;
+	}
+
 	.curent-page-name-shadow {
 		display: none;
 	}
