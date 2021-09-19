@@ -301,8 +301,9 @@ a:hover {
 }
 .img-wrap  {
 	position:relative;
-	width:100%;
+	width:130%;
 	display:block;
+	margin-left: -40px;
 }
 .img-wrap img {
 	width:100%;
