@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0c42d0;
+  background: #2a61ee;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -451,9 +451,9 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px;
   font-size: 3rem;
   font-weight: 700;
-  color: #000;
+  color: #fff;
   line-height: 1.5;
-  background-color: lightcoral;
+  background-color: #3c3744;
   /* font-family: 'Poppins', sans-serif; */
 }
 
@@ -757,7 +757,7 @@ section {
 
 .services .icon-box:hover {
   transform: translateY(-10px);
-  border-color: #f08080;
+  border-color: #3c3744;
 }
 
 .services .icon-box:hover h4 a {
@@ -1344,7 +1344,7 @@ section {
 
 .contact .info i {
   font-size: 32px;
-  color: #316879;
+  color: #0c42d0;
   float: left;
   line-height: 1;
 }
@@ -1427,7 +1427,7 @@ section {
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #316879;
+  border-color: #0c42d0;
 }
 
 .contact .php-email-form input {
@@ -1439,7 +1439,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #316879;
+  background: #0c42d0;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1448,7 +1448,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #397d92;
+  background: #0c2669;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1515,7 +1515,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   /* background: #0f0f0f; */
-  background: #316879;
+  background: #0c42d0;
   color: #fff;
   font-size: 14px;
   text-align: center;
@@ -1559,7 +1559,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #387f94;
+  background: #2559dd;
   color: #fff;
   text-decoration: none;
 }
@@ -1573,10 +1573,10 @@ section {
 }
 
 #footer .credits a {
-  color: #00b371;
+  color: #416fe4;
   transition: 0.3s;
 }
 
 #footer .credits a:hover {
-  color: #316879;
+  color: #0c42d0;
 }
