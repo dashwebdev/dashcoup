@@ -16,12 +16,12 @@ body {
 }
 
 a {
-  color: #316879;
+  color: #0c42d0;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3c7e92;
+  color: #0c42d0;
   text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #316879;
+  border: 6px solid #0c42d0;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #428ba1;
+  background: #0c42d0;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #254e5a;
+  background: #0c42d0;
   color: #fff;
 }
 
@@ -231,7 +231,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 2px;
   bottom: -2px;
   left: 0;
-  background-color: #316879;
+  background-color: #0c42d0;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #316879;
+  color: #0c42d0;
 }
 
 /* .navbar .dropdown ul {
@@ -373,7 +373,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #316879;
+  color: #0c42d0;
 }
 
 .navbar-mobile .getstarted {
@@ -627,7 +627,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #316879;
+  background: #0c42d0;
   bottom: 0;
   left: 0;
 }
@@ -672,7 +672,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #316879;
+  color: #0c42d0;
   line-height: 1;
 }
 
@@ -724,7 +724,7 @@ section {
 .services .icon-box .icon {
   width: 64px;
   height: 64px;
-  background: #316879;
+  background: #0c42d0;
   border-radius: 50px;
   display: flex;
   align-items: center;
@@ -761,7 +761,7 @@ section {
 }
 
 .services .icon-box:hover h4 a {
-  color: #316879;
+  color: #0c42d0;
 }
 
 /*--------------------------------------------------------------
@@ -828,7 +828,7 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #316879;
+  color:#0c42d0;
 }
 
 .features .icon-box p {
